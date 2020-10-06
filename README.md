@@ -1,1 +1,1 @@
-# Apuntes-metodolog-a-modelado-app
+# Apuntes metodología modelado de aplicaciones
