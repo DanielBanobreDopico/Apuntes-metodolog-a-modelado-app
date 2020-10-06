@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="297mm"
+   height="210mm"
+   viewBox="0 0 297 210"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="Modelado aplicaciones.svg"
+   inkscape:export-filename="/home/devel/Escritorio/git/Metodología/Modelado aplicaciones.png"
+   inkscape:export-xdpi="68.419998"
+   inkscape:export-ydpi="68.419998">
+  <defs
+     id="defs2" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.95501984"
+     inkscape:cx="533.53748"
+     inkscape:cy="376.95053"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="969"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78909px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.169728"
+       x="8.0986624"
+       y="201.86346"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         x="8.0986624"
+         y="201.86346"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.78909px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.169728">* Software para maquetas: bit.ly/36APRUh / marvelapp.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.5833px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:Manjari;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="78.462654"
+       y="21.396303"
+       id="text16"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         x="78.462654"
+         y="21.396303"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Manjari;-inkscape-font-specification:Manjari;stroke-width:0.264583">1.- Maqueta</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40592px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.210148"
+       x="28.118097"
+       y="73.961227"
+       id="text20"><tspan
+         sodipodi:role="line"
+         id="tspan18"
+         x="28.118097"
+         y="73.961227"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40592px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.210148">2.- Templates</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40592px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.210148"
+       x="140.80283"
+       y="73.961227"
+       id="text24"><tspan
+         sodipodi:role="line"
+         id="tspan22"
+         x="140.80283"
+         y="73.961227"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40592px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.210148">3.- Documentos y colecciones</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40592px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.210148"
+       x="141.3446"
+       y="88.043976"
+       id="text28"><tspan
+         sodipodi:role="line"
+         id="tspan26"
+         x="141.3446"
+         y="88.043976"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40592px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.210148">4.- Dependencias entre documentos</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40592px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.210148"
+       x="28.146828"
+       y="88.043976"
+       id="text32"><tspan
+         sodipodi:role="line"
+         id="tspan30"
+         x="28.146828"
+         y="88.043976"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40592px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.210148">5.- User inputs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40592px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.210148"
+       x="141.12297"
+       y="102.12673"
+       id="text36"><tspan
+         sodipodi:role="line"
+         id="tspan34"
+         x="141.12297"
+         y="102.12673"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40592px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.210148">6.- API endpoints</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40592px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.210148"
+       x="150.37161"
+       y="117.30971"
+       id="text44"><tspan
+         sodipodi:role="line"
+         id="tspan42"
+         x="150.37161"
+         y="117.30971"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40592px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.210148">Método</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40592px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.210148"
+       x="194.00323"
+       y="117.30971"
+       id="text48"><tspan
+         sodipodi:role="line"
+         id="tspan46"
+         x="194.00323"
+         y="117.30971"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.40592px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.210148">URL</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.607611;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 186.58965,110.70839 v 34.3267"
+       id="path50" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.607611;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 144.54062,119.95019 101.67274,0"
+       id="path52"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.86883px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.146721"
+       x="149.8553"
+       y="129.84114"
+       id="text879"><tspan
+         sodipodi:role="line"
+         id="tspan877"
+         x="149.8553"
+         y="129.84114"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.86883px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.146721">POST</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.86883px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.146721"
+       x="192.22751"
+       y="129.84114"
+       id="text883"><tspan
+         sodipodi:role="line"
+         id="tspan881"
+         x="192.22751"
+         y="129.84114"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.86883px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.146721">/login/</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9834px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.274585"
+       x="27.839834"
+       y="55.498127"
+       id="text887"><tspan
+         sodipodi:role="line"
+         id="tspan885"
+         x="27.839834"
+         y="55.498127"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9834px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.274585">Frontend</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9834px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.274585"
+       x="140.69284"
+       y="55.498127"
+       id="text891"><tspan
+         sodipodi:role="line"
+         id="tspan889"
+         x="140.69284"
+         y="55.498127"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.9834px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.274585">Backend</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.607611;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 83.814067,42.625284 110.13474,27.04212 136.45541,42.625284"
+       id="path893"
+       sodipodi:nodetypes="ccc" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.86883px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.146721"
+       x="149.8553"
+       y="137.87532"
+       id="text897"><tspan
+         sodipodi:role="line"
+         id="tspan895"
+         x="149.8553"
+         y="137.87532"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.86883px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.146721">GET</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.86883px;line-height:1.25;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.146721"
+       x="192.22751"
+       y="137.87532"
+       id="text901"><tspan
+         sodipodi:role="line"
+         id="tspan899"
+         x="192.22751"
+         y="137.87532"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.86883px;font-family:Manjari;-inkscape-font-specification:'Manjari, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.146721">/catalog/?page=1</tspan></text>
+  </g>
+</svg>
